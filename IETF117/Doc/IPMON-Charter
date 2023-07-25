@@ -1,0 +1,50 @@
+Charter of IPv6 Mobile Object Networking (ipmon)
+
+---
+Charter for Working Group
+
+Mobile objects of terrestrial vehicles (e.g., automobiles, motorcycles, and electric scooters), aircrafts (e.g., unmanned aerial vehicle (UAV) like drones, airplanes, and helicopters), watercrafts (e.g., boats, ships, and submarines), and mobile robots for smart buildings are increasingly connected to the Internet through various wireless communications.  Comfort-enhancing entertainment applications, driving/flying/sailing safety applications using bidirectional data flows, and connected automated maneuvering are some of the new features expected in mobile objects (denoted as vehicle in this charter) to hit the movement spaces (e.g., roadway, street, sky, river, and sea) from now to year 2022. Especially, aerial vehicles for Urban Air Mobility (UAM) are actively developed by the Industry (e.g., Honeywell and Hyundai Motor Group). 
+
+Today, there is Vehicle-to-Everything (V2X) communications that makes use of embedded Internet modules, or an occupant's cellular smartphone in vehicular networks. Vehicle-to-Infrastructure (V2I) communications is used for wireless exchange of critical safety and operational data between vehicles and infrastructure nodes (e.g., road-side units and edge computing devices), intended primarily to avoid vehicle crashes and road hazards.  Similarly, Vehicle-to-Vehicle (V2V) communications is used for short-range communications between vehicles to exchange vehicle information such as vehicle speed, heading, braking status, and collision situations.
+Also, Vehicle-to-Pedestrian (V2P) communications is used for short-range communications between vehicles and pedestrians' mobile devices (e.g., smartphone and smart watch) to exchange street context information such as the existence of mobile objects (e.g., cars, trucks, pedestrians, bikes, motorcycles, and electric scooters) and collision situations.
+
+This group will work on use cases of V2X (e.g., V2V, V2I, and V2P) where IPv6 is well-suited as a networking technology and will develop IPv6-based solutions to establish direct and secure connectivity among mobile objects or among mobile objects and stationary systems.  These vehicular networks are characterized by dynamically changing network topologies and connectivity.
+
+V2V and V2I communications may involve various kinds of link layers: IEEE 802.11-OCB (Outside the Context of a Basic Service Set), 802.11bd, 802.11ad, 802.15.4 with 6lowpan, VLC (Visible Light Communications), IrDA, LTE-D, LP-WAN, UWB, and 5G V2X.  One of the most used link layers for vehicular networks is IEEE 802.11-OCB, as a basis for Dedicated short-range communications (DSRC). Several of these link-layers already provide support for IPv6. IPv6 on 802.11-OCB has been standardized as RFC 8691 by IPWAVE WG since 2019. However, IPv6 on 5G V2X needs to be fully defined by this working group. Some aspects of the IPv6 over 5G V2X have been already defined at 3GPP specification and the specification produced by this working group is expected be compatible with these aspects. Also, if IPv6 over IEEE 802.11bd needs some modification from RFC 8691, this group will work on a work item for it.
+
+This group's primary deliverable (and the only Standards track item) will include documents that will specify the mechanisms for transmission of IPv6 datagrams over either 3GPP 5G V2X or IEEE 802.11bd V2X. Once these documents are completed, they will also be reviewed by the 6man working group. Along with these work items, the following key technologies, which are identified by IPWAVE WG's problem statement and use cases document, need to be standardized for mobile objects as follows.
+
+Program of Work
+===============
+
+The IPMON working group's deliverables include:
+
+1. IPv6 Mobile Objects (IPMON): Problem Statement and Use Cases
+2. Basic Support for IPv6 Networks Operating over 5G Vehicle-to-Everything (V2X) Communications
+3. Vehicular Neighbor Discovery (VND) for Multihop IPv6 Address Autoconfiguration
+4. Vehicular Mobility Management (VMM) for Proactive Mobility Support
+5. Vehicular Packet Routing (VPR) with Light-Weight Routing Overhead
+6. Vehicular Security and Privacy (VSP) for Mobile Objects
+7. Context-Aware Navigation Protocol (CNP) for Safe Maneuver of Mobile Objects
+8. Identifier and Locator Management for Mobile Objects 
+
+Milestones
+===============
+
+1. July 2024: Adopt IPMON Problem Statement and Use Cases as a WG document
+2. July 2024: Adopt Basic Support for IPv6 Networks Operating over 5G V2X Communications as a WG document
+3. November 2024: Adopt Vehicular Neighbor Discovery (VND) as a WG document
+4. November 2024: Adopt Vehicular Mobility Management as a WG document
+6. November 2024: Adopt Vehicular Packet Routing (VPR) as a WG 
+document
+6. November 2024: Adopt Vehicular Security and Privacy (VSP) as a WG document
+7. March 2025: Adopt Context-Aware Navigation Protocol (CNP) as a WG document 
+8. March 2025: Adopt Identifier and Locator Management for Mobile Objects as a WG document
+
+---
+
+BoF Chairs
+===============
+Jaehoon Paul Jeong, Sungkyunkwan University, pauljeong@skku.edu
+Yiwen Chris Shen, Kyungsung University, chrisshen@ks.ac.kr
+
