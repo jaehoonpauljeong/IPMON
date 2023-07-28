@@ -1,0 +1,13 @@
+(00:19:48) [Alexandre Petrescu, in France]:	I can hear
+
+(01:05:03) [Alexandre Petrescu, in France]:	For the slide that contains a question like 'which car is the SLAAC router, among many cars on a road' - maybe one can consider election algorithms.  I wonder in which protocols at IETF are there election algorithms? (VRRP protocol, DHAAD protocol of Mobile IP come to mind, but I am not sure they have an election algorithm implemented).
+
+(01:05:47) [Alexandre Petrescu, in France]:	(just some thought…)
+
+(01:07:29) [Alexandre Petrescu, in France]:	Also, the slide that pictures a drone above a road, and which playse the role of a gnodeb in the air, to cover areas that are not covered by other fixed gnodeb's along the route: this is very similar to a concept of TN/NTN mobility handovers (terrestrial nets/non-terrestrial nets like satellite) use-case mentioned at 3GPP, even though others consider TN/NTN to be a different matter than a handover (mostly a radio aspect).
+
+(01:07:53) [Alexandre Petrescu, in France]:	That is to say there can be relationships between drones and satcom, for mobile objects.
+
+(01:12:55) [Alexandre Petrescu, in France]:	(sorry I have to leave; thank you for the well organized side meeting)
+
+(01:26:45) [Hesham]:	I have to leave now
