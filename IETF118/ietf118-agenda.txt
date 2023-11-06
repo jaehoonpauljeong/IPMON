@@ -14,7 +14,7 @@ Meeting Link: https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xw
 ---
 
 o Agenda
-- Agenda Bash: Jaehoon Paul Jeong and Yiwen Chris Shen (5 min)
+- Agenda Bash: Jaehoon Paul Jeong (5 min)
 
 - IPMON Hackathon Project: Bien Aime Mugabarigira (10 min)
 
