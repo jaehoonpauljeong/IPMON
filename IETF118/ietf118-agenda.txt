@@ -1,3 +1,30 @@
-This is the agenda of IPMON side meeting in the IETF 118.
+IETF-118 IPMON Side Meeting Agenda
 
+---
+o Meeting Information
+- Date/Time: 2023.11.09, 16:00-18:00
+- Place: Karlin 4
+- GitHub for Slides: https://github.com/jaehoonpauljeong/IPMON/tree/main/IETF118
+
+o Zoom Meeting
+---
+Meeting ID: 826 5605 8380
+Password: 746730
+Meeting Link: https://us02web.zoom.us/j/82656058380?pwd=Z016RjBxWW4zZGNWVU05V2xwQm5GZz09
+---
+
+o Agenda
+- Agenda Bash: Jaehoon Paul Jeong and Yiwen Chris Shen (5 min)
+
+- IPMON Hackathon Project: Bien Aime Mugabarigira (10 min)
+
+- Basic Support for IPv6 Networks Operating over 5G Vehicle-to-Everything Communications: Jaehoon Paul Jeong (20 min)
+https://datatracker.ietf.org/doc/html/draft-jeong-6man-ipv6-over-5g-v2x-02
+
+- Software-Defined Vehicle: Yiwen Chris Shen (20 min)
+
+- IPMON Charter: Jung-Soo Park (20 min)
+
+- Discussion on Next Steps: Jaehoon Paul Jeong (45 min)
+---
 
